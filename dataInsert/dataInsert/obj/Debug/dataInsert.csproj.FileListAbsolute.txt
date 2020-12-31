@@ -1,0 +1,12 @@
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\bin\Debug\dataInsert.exe.config
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\obj\Debug\dataInsert.csprojResolveAssemblyReference.cache
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\bin\Debug\dataInsert.exe
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\bin\Debug\dataInsert.pdb
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\obj\Debug\dataInsert.exe
+C:\Users\tqoon-83\Documents\Visual Studio 2015\Projects\lsh\dataInsert\dataInsert\obj\Debug\dataInsert.pdb
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\bin\Debug\dataInsert.exe.config
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\obj\Debug\dataInsert.exe
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\obj\Debug\dataInsert.pdb
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\bin\Debug\dataInsert.exe
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\bin\Debug\dataInsert.pdb
+C:\Users\tqoon-83\Desktop\lsh\ATAM\elasticDataInsert\dataInsert\dataInsert\obj\Debug\dataInsert.csprojResolveAssemblyReference.cache
